@@ -64,6 +64,7 @@ We would like to thank and acknowledge all experts which took part in reviewing 
 * [Ory Segal](https://twitter.com/orysegal) (Senior Director, Product Management @ Palo Alto Networks)
 * Noa Ginzbursky (DevOps Engineer @ Cider Security)
 * [Asi Greenholts](https://twitter.com/TupleType) (Security Researcher @ Cider Security)
+* Man Nguyen (CISO @ HPE GLCP)
 
 # Top 10 risks
 Presented below are the top 10 CI/CD security risks. All risks follow a consistent structure - 
